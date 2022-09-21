@@ -9,3 +9,9 @@ Crea tu propio emoji.
 - Una matriz de leds 8 x 8 y el integrado MAX2719 como controlador.
 - Un módulo Bluetooth HC-06
 - Dispositivo Android para instalar la aplicación para crear emoji y mostrarlo en la matriz de leds.
+
+## Esquema de las conexiones
+
+## Arduino sketch
+
+## Instalar y ejecutar la aplicación
